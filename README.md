@@ -3,11 +3,11 @@
 This repository containes the following as part of Homework-3 of the Data Mining Course(COL761) at IIT Delhi.
 
 1. Comparison of Frequent Subgraph Mining tools. The dataset of molecules tested against AIDS is used whose format is the following:
-#graphID
-number of nodes
-Series of Node Labels
-Number of edges
-Series of “Source node, Destination Node, Edge label”
+- #graphID
+- number of nodes
+- Series of Node Labels
+- Number of edges
+- Series of “Source node, Destination Node, Edge label”
 
 gSpan, FSG (also known as PAFI), and Gaston are run against frequency threshold in the AIDS dataset at minSup = 5%, 10%, 25%, 50% and 95%.
 Running times of each are plotted and the trend observed in the running times is explained.
