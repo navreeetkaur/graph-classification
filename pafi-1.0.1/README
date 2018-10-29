@@ -1,0 +1,43 @@
+
+
+*******************************************************************************
+File List
+*******************************************************************************
+
+This directory contains the binary distribution of PAFI 1.0.
+The files in this directory are the following:
+
+  Linux/                        The binary files for Linux (built on 2.4.9)
+    lpminer                     
+    slpminer                    
+    fsg                         
+
+  Sun/                          The binary files for Sun (built on SunOS 5.7)
+    lpminer                     
+    slpminer                    
+    fsg                         
+
+  Datasets/                     Some sample datasets
+
+  manual.pdf                    PAFI's user manual in PDF format.
+  manual.ps                     PAFI's user manual in postscript format.
+  COPYRIGHT                     PAFI's copyright notice and usage agreement.
+  VERSION                       A file containing the version number of PAFI.
+  CHANGES                       A file listing PAFI's changes in the various 
+                                releases.
+  README                        This file.
+
+
+
+*******************************************************************************
+Contact Information
+*******************************************************************************
+
+If you have any questions or problems with PAFI please contact George Karypis
+at karypis@cs.umn.edu.
+
+
+--------------
+George Karypis
+3/11/03
+

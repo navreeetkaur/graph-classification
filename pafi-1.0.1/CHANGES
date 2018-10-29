@@ -1,0 +1,11 @@
+
+Changes in 1.0.1
+  - Improved FSG's performance for datasets with a large number of
+    different vertex- and edge-labels
+  - The linux version of FSG is now distributed as a statically 
+    linked binary.
+
+Changes in 1.0.0
+  - Initial release
+
+    

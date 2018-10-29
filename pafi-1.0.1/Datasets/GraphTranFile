@@ -1,0 +1,18 @@
+t # triangle
+v 0 V
+v 1 V
+v 2 V
+u 0 1 E
+u 0 2 E
+u 1 2 E
+t # K4
+v 0 V
+v 1 V
+v 2 V
+v 3 W
+u 0 1 E
+u 0 2 E
+u 0 3 E
+u 1 2 E
+u 1 3 E
+u 2 3 E
