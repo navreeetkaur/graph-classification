@@ -1,5 +1,0 @@
-.DS_Store
-.DS_Store?
-gSpan6/*
-gaston-1.1/*
-pafi-1.0.1/*
