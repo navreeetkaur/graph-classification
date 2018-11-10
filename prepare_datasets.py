@@ -79,10 +79,12 @@ with open(inputfile, 'r') as fr, open(out_gSPAN, 'a') as fw, open(graph_num, 'a'
 				v_label = fr.readline().rstrip()
 				to_write = 'v ' + str(i) + ' ' + str(vertex_labels[v_label]) + '\n'
 				fw.write(to_write)
+			# read edges
 			num_edges = int(fr.readline().strip())
 			for i in range(num_edges):
 				edge = fr.readline()
-				to_write = 'e ' + edge 
+				edge_nums = edge.split(" ")
+				to_write = 'e ' + edge_nums[0] + " " + edge_nums[1] + " " +  str(int(edge_nums[2])-1) + "\n"
 				fw.write(to_write)
 				
 		else:
