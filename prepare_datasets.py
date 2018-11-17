@@ -1,7 +1,4 @@
-import os
-import sys
 import numpy as np
-import pandas as pd
 
 # inputfile = './data/aido99_all.txt'
 inputfile = './data/small_data.txt'
