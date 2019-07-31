@@ -1,6 +1,6 @@
 # Graph Classification
 
-This repository containes the following as part of Homework-3 of the Data Mining Course(COL761) at IIT Delhi.
+This repository containes the following as part of [Homework-3](https://github.com/navreeetkaur/data-mining-assignments/blob/master/COL761_HW3.pdf) of the Data Mining Course(COL761) at IIT Delhi.
 
 1. Comparison of Frequent Subgraph Mining tools. The dataset of molecules tested against AIDS is used whose format is the following:
 - #graphID
